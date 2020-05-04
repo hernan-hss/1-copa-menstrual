@@ -1,0 +1,101 @@
+.body {margin: 0px; padding-top: 0px; font-family: Arial, Helvetica, sans-serif;background-color: rgb(227,214,212);
+ }
+
+ .cuerpo-interno {width: 1000px;
+ margin: 0px auto;
+ height: 45px; background-color:#fff}
+
+
+
+ /*  contacto */
+
+
+.redes-contacto  { font-family:Calligraphy ; float: left; padding-left: 5px; mmargin-top:10px;
+font-size: 15px;height: 44px; background-color: re}
+
+
+#texto-Comunicate {float: left; margin-left: 5px;margin-top: 14px}
+
+.imagen-telefono {float: left; height: 10px; margin-top: 5px}
+
+#imagen-telefono { width: 35px; float:left; margin-left: 100px;}
+
+#texto-telefono {float: left; margin-left: 20px;
+margin-top: 14px;}
+
+
+/* redes sociales*/
+
+.redes {float: right; padding-right: 5px;height: 44px; background-color:}
+
+#redes {width: 30px; float: left;  padding-left:10px; margin-top: 15px;}
+
+
+#redes-c {width: 30px;
+   height:20px ;float: left;  padding-left:10px; margin-top: 15px;}
+
+
+
+#redes a:hover
+
+
+
+
+ /* segundo barra */
+
+.clear-para-segunada-barra { clear: both; }
+
+.segunda-barra { background-color:RGB(252, 116, 253); width: 100%; height: 90px; border-top: 3px solid #9999; }
+
+.segunda-barra-interna {width: 1000px;
+ margin: 0px auto;
+ height: 90px;}
+
+
+/* clear-imagen-butterfly*/
+
+
+.clear-imagen-butterfly {clear: both;}
+
+
+.imagen-butterfly { float: left; margin-left: 15px; margin-top: 8px}
+
+#imagen-butterfly { height: 70px; border-radius: 10px;}
+
+
+.nombre-butterfly
+{ width:400px; height: 70px; float: right; text-align: center; font-size: 50px; font-family: Lucida Calligraphy; color: #fff; background-color: gree; margin-top: 10px; margin-right: 250px}
+
+
+/* Menu 1*/
+
+.claer-Menu { clear: both; }
+
+.fondo-100-menu-1 { background-color:RGB(234, 128, 252); border-top: 1px #999999 solid;
+width: 100%;
+height: 45px;}
+
+.caja-menu-1 {
+width: 1000px;
+margin: 0 auto; background-color:; height: 40px}
+
+#links-menu-1 a { height: 20px;
+text-align: center;
+color: white;
+text-decoration: none;
+font-size: 14px;
+border-right: 2px solid white;
+padding-right: 15px ;
+float: left;
+margin-top: 10px;
+margin-right: 12px;
+}
+
+#links-menu-1 a:hover { text-decoration: underline; color: black; font-size: 15px}
+
+
+
+/*cuerpo central*/
+.clear-cuerpo { clear: both; }
+
+.cuerpo-central { background-color:red;}
